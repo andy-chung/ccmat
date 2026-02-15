@@ -1,4 +1,4 @@
-# ccmat
+# cc-mat
 1. 1nt-2s 低花stayman. 1nt-2nt 低花停叫
 2. 1M-3nt splinter 另門高花. 1s-3h/4h 自然
 3. Vs opp NT: (a) X: m or MM, X=strength (vs wk NT) (b) 2c/d: c/d +M (c) 2M: 自然
